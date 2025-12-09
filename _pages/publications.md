@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Ma, Xiangyu. 2025. "On the deep, surprising, and persistently gendered dynamics in complex music tastes." *Socius*. [Pre-print available here.](/files/papers/ma_2025a.pdf)
+
 Ma, Xiangyu. 2024. "Tastes and complex tastes." *Cultural Sociology*. [Pre-print available here.](/files/papers/ma_2024b.pdf)
  
 
