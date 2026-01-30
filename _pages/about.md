@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Ma Xiangyu is an assistant professor in sociology at Nanyang Technological University. 
-His research broadly involves the theorizing and measurement of complex tastes in cultural fields.
+His research program can be broadly summarized as the objective measure of subjectivities.
 His current research interests include the use of silicon sampling in studies of cultural taste and around the transformation of authenticity under new generative AI regimes.
 Some of his recent published work examines the way hip-hop artists’ deaths function as costly signals of authenticity, durably inflating audience valuations of their antemorterm work. 
 His writings have been published in outlets such as *Socius*, *Poetics*, and *Cultural Sociology*. 
