@@ -20,7 +20,7 @@ Ma, Xiangyu. 2021. "What are the temporal dynamics of taste?" *Poetics*. [Pre-pr
 
 ### Working Papers
 
-Ma, Xiangyu, Mengmi Zhang, Shannon Ang & Minne Chen. In preparation. "Not-quite-human tastes: the stylized omnivorousness of LLM survey surrogates." [Available on ArXiv.](https://arxiv.org/abs/2606.30085)
+Ma, Xiangyu, Mengmi Zhang, Shannon Ang & Minne Chen. Under review at *Poetics*. "Tastes without distinction: silicon samples and the synthetic construction of tastes." [Available on ArXiv.](http://arxiv.org/abs/2606.30085)
 
 Lam, Hock Yuen Nickolas, Ji Xuan Voo & Xiangyu Ma. In preparation. "The flawed and conditional superiority of fast silicon sampling." [Available on ArXiv.](https://arxiv.org/abs/2608.14079)
 
