@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ma Xiangyu is an assistant professor in sociology at Nanyang Technological University. 
+Ma Xiangyu is an assistant professor in sociology at Nanyang Technological University, where he also serves as the co-Lead of the Social Lab at Asian Center of Digital Cultures. 
 He writes about the objective measure of subjectivities.
 His current research projects assess the usefulness of silicon sampling in studies of cultural taste; he also studies the social construction of authenticity under generative AI regimes.
 Lately, he has also been working with large-language models a fair bit, in particular working on problems related to the algorithmic fidelity of synthetic estimates derived from so-called "silicon samples."
