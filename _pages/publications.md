@@ -22,7 +22,7 @@ Ma, Xiangyu. 2021. "What are the temporal dynamics of taste?" *Poetics*. [Pre-pr
 
 Ma, Xiangyu, Mengmi Zhang, Shannon Ang & Minne Chen. Under review. "Ersatz tastes: assessing the ecological, relational, and positional fidelity of cultural tastes from silicon samples." [Available on ArXiv.](http://arxiv.org/abs/2606.30085)
 
-Lam, Hock Yuen Nickolas, Ji Xuan Voo & Xiangyu Ma. Under review. "The flawed and conditional superiority of fast silicon sampling." [Available on ArXiv.](https://arxiv.org/abs/2608.14079)
+Lam, Hock Yuen Nickolas, Ji Xuan Voo & Xiangyu Ma. Under review. "The conditional superiority of fast silicon sampling." [Available on ArXiv.](https://arxiv.org/abs/2608.14079)
 
 
 
