@@ -14,6 +14,6 @@ He is currently building a theory of complex tastes, using it to extend canonica
 Lately, he has also been working with large-language models a fair bit, in particular working on problems related to the algorithmic fidelity of synthetic estimates derived from so-called “silicon samples.” 
 He also studies the social construction of authenticity under generative AI regimes. 
 His writings have been published in outlets such as *Socius*, *Poetics*, and *Cultural Sociology*. 
-He graduated with a PhD in sociology from the University of Chicago, and a BA in sociology from Pomona College. 
+He graduated with a PhD in sociology from the University of Chicago, and a BA in sociology, magna cum laude, from Pomona College. 
 
 [A copy of his most recent CV can be found here.](/files/cv/current.pdf)
